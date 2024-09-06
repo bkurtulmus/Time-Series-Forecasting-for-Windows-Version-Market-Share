@@ -65,8 +65,8 @@ To use this project, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/windows-market-share-forecast.git
-   cd windows-market-share-forecast
+   git clone https://github.com/bkurtulmus/Time-Series-Forecasting-for-Windows-Version-Market-Share.git
+   cd Time-Series-Forecasting-for-Windows-Version-Market-Share
    ```
 
 2. Make sure you have all the required Python packages installed.
